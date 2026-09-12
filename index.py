@@ -22,8 +22,4 @@ class BankAccount:
         else:
             print("Invalid amount or insufficient balance!")
 
-    # Check Balance
-    def check_balance(self):
-        print(f"Account Holder: {self.name}")
-        print(f"Current Balance: ৳{self.__balance}")
-        
+    
