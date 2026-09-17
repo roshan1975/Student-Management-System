@@ -65,3 +65,10 @@ while True:
         account.check_balance()
 
     elif choice == "4":
+        
+        print("Thank you for using My Bank! 👋")
+        break
+
+    else:
+
+        print("Invalid choice!")
