@@ -25,5 +25,11 @@ class BankAccount:
     def check_balance(self):
         print(f"Account Holder: {self.name}")
         print(f"Current Balance: ৳{self.__balance}")
-# -------------------                ------------------
 
+print("================================")
+print("       🏦 MY BANK")
+print("================================")
+
+name = input("Enter your name: ")
+initial_balance = float(input("Enter initial balance: "))
+account = BankAccount(name, initial_balance)
