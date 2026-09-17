@@ -48,20 +48,18 @@ while True:
     choice = input("Enter your choice: ")
 
     if choice == "1":
-
+        
         amount = float(input("Enter deposit amount: "))
-
         account.deposit(amount)
 
     elif choice == "2":
 
         amount = float(
             input("Enter withdrawal amount: "))
-
+        
         account.withdraw(amount)
 
     elif choice == "3":
-
         account.check_balance()
 
     elif choice == "4":
@@ -70,5 +68,4 @@ while True:
         break
 
     else:
-
         print("Invalid choice!")
