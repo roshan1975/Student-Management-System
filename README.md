@@ -21,7 +21,7 @@ Open the project in VS Code.
 ### Step 2
 Open the Terminal:
 
-" ```bash "
+" ```bash  "
 python bank.py
 
 ### Step 3
