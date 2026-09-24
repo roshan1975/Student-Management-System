@@ -15,19 +15,19 @@ It is a beginner-level learning project.
 
 # 4. How to Run It
 
-## Step 1
+### Step 1
 Open the project in VS Code.
 
-## Step 2
+### Step 2
 Open the Terminal:
 
 " ```bash "
 python bank.py
 
-# Step 3
+### Step 3
 Enter the name and initial balance.
 
-# Step 4
+### Step 4
 Choose an option from the bank menu:
 
 1. Deposit
@@ -35,7 +35,7 @@ Choose an option from the bank menu:
 3. Check Balance
 4. Exit
 
-# Deposit:
+## Deposit:
 Choose 1 and enter an amount.
 
 Enter your choice: 1
@@ -43,7 +43,7 @@ Enter deposit amount : 5000
 
 Deposited: ৳ 5000.0
 
-# Withdraw:
+## Withdraw:
 Choose 2 and enter an amount.
 
 Enter your choice: 2
@@ -51,7 +51,7 @@ Enter deposit amount : 500
 
 Withdrawn: ৳ 500.0
 
-# Check Balance:
+## Check Balance:
 Choose 3.
 
 Account Holder: Roshan
