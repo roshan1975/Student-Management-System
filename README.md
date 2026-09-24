@@ -15,10 +15,10 @@ It is a beginner-level learning project.
 
 # 4. How to Run It
 
-# Step 1
+## Step 1
 Open the project in VS Code.
 
-# Step 2
+## Step 2
 Open the Terminal:
 
 " ```bash "
