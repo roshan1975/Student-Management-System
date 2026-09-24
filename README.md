@@ -66,18 +66,18 @@ Thank you for using My Bank! 👋
 
 While making this project, I learned:
 
-1. How to create a Python class
-2. How to create and use objects
-3. How to use methods
-4. How to use if-else
-5. How to use a while loop
-6. How to use a private variable
+- How to create a Python class
+- How to create and use objects
+- How to use methods
+- How to use if-else
+- How to use a while loop
+- How to use a private variable
 
 # 6. Tools I Used
 
-1. Python
-2. Vs Code 
-3. Python OOP
+- Python
+- Vs Code 
+- Python OOP
 
 # 7. About Me:
 Hi! I'm Roshan, a Class 7 student learning Python and programming. I enjoy building small projects and improving my coding skills.
