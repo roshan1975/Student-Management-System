@@ -4,7 +4,7 @@ class BankAccount:
         self.name = name
         self.__balance = balance
 
-# Deposit Money
+# Deposit Method
     def deposit(self, amount):
 
         if amount > 0:
@@ -13,7 +13,7 @@ class BankAccount:
         else:
             print("Invalid amount!")
 
-    # Withdraw Money
+# Withdraw Method
     def withdraw(self, amount):
 
         if amount > 0 and amount <= self.__balance:
@@ -21,10 +21,20 @@ class BankAccount:
             print(f"Withdrawn: ৳ {amount}")
         else:
             print("Invalid amount or insufficient balance!")
-
+# Check Balance Method
     def check_balance(self):
         print(f"Account Holder: {self.name}")
         print(f"Current Balance: ৳{self.__balance}")
+# Transfer Money Method
+    def transfer(self, other_account, amount):
+        if amount > 0 and amount <= self.__balance:
+            self.__balance -= amount
+            other_account.__balance += amount
+
+            print(f"Transferred: ৳{amount}")
+            print(f"To: {other_account.name}")
+        else:
+            print("Invalid amount or insufficient balance!")
 
 print("================================")
 print("       🏦 MY BANK")
