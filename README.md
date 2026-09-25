@@ -81,4 +81,3 @@ Hi! I'm Roshan, a Class 7 student learning Python and programming. I enjoy build
 
 Made with ❤️ using Python.
 
-My name is Roshan
