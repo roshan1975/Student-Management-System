@@ -69,9 +69,6 @@ While making this project, I learned:
 - How to create a Python class
 - How to create and use objects
 - How to use methods
-- How to use if-else
-- How to use a while loop
-- How to use a private variable
 
 # 6. Tools I Used
 
