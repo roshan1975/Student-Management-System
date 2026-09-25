@@ -73,13 +73,22 @@ While making this project, I learned:
 - How to use a while loop
 - How to use a private variable
 
-# 6. Tools I Used
+# 6. Main Features
 
+This Bank Management System provides the following features:
+
+- Deposit money into the account
+- Withdraw money from the account
+- Check the current account balance
+- Store the balance using a private variable
+- Simple menu-based bank system
+  
+# 7. Tools I Used
 - Python
 - Vs Code 
 - Python OOP
 
-# 7. About Me:
+# 8. About Me:
 Hi! I'm Roshan, a Class 7 student learning Python and programming. I enjoy building small projects and improving my coding skills.
 
 Made with ❤️ using Python.
