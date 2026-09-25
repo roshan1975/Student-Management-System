@@ -13,7 +13,7 @@ class BankAccount:
         else:
             print("Invalid amount!")
 
-    # Withdraw Money
+# Withdraw Money
     def withdraw(self, amount):
 
         if amount > 0 and amount <= self.__balance:
@@ -21,7 +21,7 @@ class BankAccount:
             print(f"Withdrawn: ৳ {amount}")
         else:
             print("Invalid amount or insufficient balance!")
-
+# Check Balance 
     def check_balance(self):
         print(f"Account Holder: {self.name}")
         print(f"Current Balance: ৳{self.__balance}")

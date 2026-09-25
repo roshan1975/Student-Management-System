@@ -82,7 +82,7 @@ This Bank Management System provides the following features:
 - Check the current account balance
 - Store the balance using a private variable
 - Simple menu-based bank system
-  
+
 # 7. Tools I Used
 - Python
 - Vs Code 
