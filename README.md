@@ -57,7 +57,7 @@ Choose 3.
 Account Holder: Roshan
 Current Balance: ৳24500.0
 
- Exit:
+# Exit:
 Choose 4.
 
 Thank you for using My Bank! 👋
@@ -69,6 +69,9 @@ While making this project, I learned:
 - How to create a Python class
 - How to create and use objects
 - How to use methods
+- How to use if-elif-else
+- How to use a while loop
+- How to use a private variable
 
 # 6. Tools I Used
 
